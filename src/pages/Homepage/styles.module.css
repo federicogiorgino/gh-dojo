@@ -1,0 +1,10 @@
+.logo {
+  width: 15em;
+  height: 15em;
+  object-fit: cover;
+}
+
+.logoContainer {
+  background-color: #fff;
+  border-radius: 10em;
+}
